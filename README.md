@@ -8,19 +8,19 @@ An interactive Pathfinding Visualizer built using **React**, **TypeScript**, and
 
 ### Home
 
-<img width="1920" height="1080" alt="pathfindervisualizer - Brave 24-07-2026 13_01_01" src="https://github.com/user-attachments/assets/606a247e-ec87-4ceb-ad42-2edf67163ad2" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/f9cd0361-b861-4b17-83bb-cd99eb85865f" />
 
 ### Random Walls
 
-<img width="1920" height="1080" alt="pathfindervisualizer - Brave 24-07-2026 13_01_37" src="https://github.com/user-attachments/assets/6ff55bbc-dc86-4a17-8f33-60cbfdf985d9" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/f905f9c9-a67e-41c5-82bc-0ca0e6936470" />
 
 ### Breadth First Search (BFS)
 
-<img width="1920" height="1080" alt="pathfindervisualizer - Brave 24-07-2026 13_01_59" src="https://github.com/user-attachments/assets/69127db5-4a43-49a4-b1ee-414ee13bc5e3" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/7d1a15e7-3ec0-410b-ac78-fa1c62d1a6dd" />
 
 ### Depth First Search (DFS)
 
-<img width="1920" height="1080" alt="Editing PathfinderVisualizer_README md at main · ArynVerse_PathfinderVisualizer - Brave 24-07-2026 13_22_53" src="https://github.com/user-attachments/assets/36bfb43e-0c6f-4ca1-b0da-42e9e5ee2465" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/4933e388-dd67-4456-ac02-947d305f6cd7" />
 
 
 ---

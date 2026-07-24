@@ -70,7 +70,7 @@ An interactive Pathfinding Visualizer built using **React**, **TypeScript**, and
 ```bash
 git clone https://github.com/ArynVerse/PathfinderVisualizer.git
 
-cd PathfinderVisualizer
+cd pathfinderVisualizer
 
 npm install
 
